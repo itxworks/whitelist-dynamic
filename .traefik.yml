@@ -1,0 +1,7 @@
+displayName: whitelist-dynamic
+type: middleware
+iconPath: .assets/logo.png
+
+import: github.com/itxworks/whitelist-dynamic
+
+summary: 'A middleware that allow dynamic whitelists'
